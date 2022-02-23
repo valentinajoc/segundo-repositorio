@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Las recetas favoritas de Valentina Jose 3</title>
+</head>
+<body>
+    <style> 
+body
+{ background-color: chocolate;
+font-family:"times new roman" ;
+color:white;}
+h1
+{background: pink;
+font-family:'Times New Roman';
+color:red}
+h2 
+{background: pink;
+font-family:"Times New Roman";
+color: red;}
+
+li{
+background-color: chocolate;
+font-family: "times New Roman";
+color:white }
+
+    </style>
+    <h1> Brownies</h1>
+    <h2>Que necesito?</h2>
+    <ul>
+    <li> 200 gramos de chocolate negro</li>
+    <li> 110 gramos de mantequilla</li>
+    <li>4 huevos</li>
+    <li> 120 gramos de azúcar</li>
+    <li>1 cucharada de esencia de vainilla</li>
+    <li> 85 gramos de harina.</li>
+    <li>bicarbonato</li>
+    <li>Nueces</li>
+    <li>Pepitas de chocolate</li>
+    </ul>
+   
+<h2>paso 1</h2>
+<p>
+En un bol ponemos el chocolate y la mantequilla. 
+Lo metemos al microondas a temperatura media para 
+que se vaya derritiendo. Una vez derretido lo mezclamos
+muy bien.</p>
+
+<h2>paso 2</h2>
+<p>
+Ponemos los 4  horno ponemos un poco de mantequilla y harina para que no se nos pegue el brownie.
+Incorporamos la mezcla y cubrimos con gotas de chocolate y nueces (opcional). 
+Introducimos al horno durante 30-35 minutos a 180º.
+</p>
+
+<h2>paso 5</h2>
+<p>
+Voila! A disfrutar!huevos y el azúcar en un bol.
+Agregamos la harina y la cucharadita de bicarbonato. Mezclamos muy bien.
+    </p>
+ <h2>paso 3 </h2>
+ <p>
+Agregamos el chocolate que hemos derretido junto con la mantequilla y el toque de vainilla. Seguimos mezclando.
+Agregamos las nueces y las pepitas de chocolate.
+</p>
+<h2>paso 4</h2>
+<p>
+En un recipiente de
+</p>
+<img src="chewy-brownies.jpg"
+
+
+<footer>
+<p>comentarios (0)</p>
+<time>28/01/2022</time>
+<p>derechos reservados 2017-2022</p>
+</footer>
+</body> 
